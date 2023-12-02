@@ -285,15 +285,6 @@
         "jetbrains": "Comment/uncomment with block comment"
       },
       {
-        "key": "ctrl+shift+alt+j",
-        "mac": "cmd+cmd+g",
-        "win": "ctrl+cmd+g",
-        "linux": "ctrl+cmd+g",
-        "command": "editor.action.selectHighlights",
-        "when": "editorFocus",
-        "jetbrains": "Select All Occurrences"
-      },
-      {
         "key": "ctrl+w",
         "mac": "alt+up",
         "win": "alt+up",
@@ -607,22 +598,6 @@
         "linux": "ctrl+alt+o",
         "command": "workbench.action.gotoSymbol",
         "jetbrains": "Go to Symbol"
-      },
-      {
-        "key": "alt+left",
-        "mac": "cmd+left",
-        "win": "ctrl+left",
-        "linux": "ctrl+left",
-        "command": "workbench.action.previousEditor",
-        "jetbrains": "Go to previous editor tab"
-      },
-      {
-        "key": "alt+right",
-        "mac": "cmd+right",
-        "win": "ctrl+right",
-        "linux": "ctrl+right",
-        "command": "workbench.action.nextEditor",
-        "jetbrains": "Go to next editor tab"
       },
       {
         "key": "",
@@ -1232,14 +1207,6 @@
         "command": "workbench.action.toggleSidebarVisibility",
         "when": "!editorFocus",
         "jetbrains": "Close corresponding tool window (Git)"
-      },
-      {
-        "key": "ctrl+alt+f",
-        "mac": "cmd+cmd+f",
-        "win": "ctrl+cmd+f",
-        "linux": "ctrl+cmd+f",
-        "command": "workbench.action.toggleFullScreen",
-        "jetbrains": "Toggle full screen mode"
       },
       {
         "key": "ctrl+alt+s",
